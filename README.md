@@ -14,7 +14,7 @@ Selles praktikumi juhendis tutvustan, kuidas mina paigaldasin Windows 11 operats
 4. **Draiverite ja Guest Additionsi paigaldamine:** Tagasin, et virtuaalmasin töötab sujuvalt ning Windowsi akna suurus muutub vastavalt.
 5. **Windowsi aktiveerimine:** Viisin läbi Windows 11 aktiveerimise KMS-serveri kaudu.
 
-#Kõik!
+# Kõik!
 
 Praktikum oli piisavalt lihtne ja mul ei tekkinud mingeid probleeme! Kui te seda loete, siis loodan, et teilgi ei tekkinud küsimusi. Kui on abi vaja, võite mulle kirjutada:** lev@link.ee **ja mul on suur rõõm teid aidata!
 
