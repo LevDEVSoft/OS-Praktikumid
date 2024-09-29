@@ -25,5 +25,5 @@ Selles praktikumi juhendis tutvustan, kuidas mina paigaldasin Windows 11 operats
 
 # Kõik!
 
-Praktikum oli piisavalt lihtne ja mul ei tekkinud mingeid probleeme! Kui te seda loete, siis loodan, et teilgi ei tekkinud küsimusi. Kui on abi vaja, võite mulle kirjutada:** lev@link.ee **ja mul on suur rõõm teid aidata!
+Praktikum oli piisavalt lihtne ja mul ei tekkinud mingeid probleeme! Kui te seda loete, siis loodan, et teilgi ei tekkinud küsimusi. Kui on abi vaja, võite mulle kirjutada: lev@link.ee ja mul on suur rõõm teid aidata!
 
