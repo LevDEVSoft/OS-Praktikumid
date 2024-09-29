@@ -1,4 +1,4 @@
-# OS-Praktikum1
+# OS-Praktikumid
 Esimese praktikumi aruanne
 # Tere tulemast Windows 11 Virtuaalmasina Praktikumi!
 
