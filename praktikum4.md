@@ -1,8 +1,9 @@
 # Praktikumi Aruanne - Windows 11 Turvalisus
 Selles aruandes esitan ekraanipildid ja selgitused iga ülesande kohta vastavalt praktikumi nõuetele.
 
-![Screenshot 2024-10-15 232311](https://github.com/user-attachments/assets/b8fb0410-8620-4c66-a0f3-8ef57346f1cf)
-Pilt . 
+![Screenshot 2024-10-15 192422](https://github.com/user-attachments/assets/f54f867e-dd53-450c-949b-f48cd68c6aef)
+
+Pilt 1.  
 
 # Ülesanded
 
@@ -45,5 +46,5 @@ Viimasel ekraanipildil olen näidanud, kuidas pärast DisplayLastLogonInfo regis
 ![Screenshot 2024-10-16 144943](https://github.com/user-attachments/assets/a3c72ca0-1a85-4d59-96be-3af708d54d7d)
 ![Screenshot 2024-10-15 194410](https://github.com/user-attachments/assets/54e217ef-e913-4292-a0b5-07d2a40cd62b)
 ![Screenshot 2024-10-15 202229](https://github.com/user-attachments/assets/cdf75d1d-ca8e-4b7a-bec3-e07e467be6fa)
-![Screenshot 2024-10-15 192422](https://github.com/user-attachments/assets/f54f867e-dd53-450c-949b-f48cd68c6aef)
+![Screenshot 2024-10-15 232311](https://github.com/user-attachments/assets/b8fb0410-8620-4c66-a0f3-8ef57346f1cf)
 ![Screenshot 2024-10-16 185256](https://github.com/user-attachments/assets/e7d251fb-9ed7-419c-9c53-43569984f0b0)
