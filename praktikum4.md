@@ -3,7 +3,7 @@ Selles aruandes esitan ekraanipildid ja selgitused iga ülesande kohta vastavalt
 
 ![Screenshot 2024-10-15 192422](https://github.com/user-attachments/assets/f54f867e-dd53-450c-949b-f48cd68c6aef)
 
-Pilt 1.  
+Pilt 1.  Windowsi aktiveerimine õnnestus
 
 # Ülesanded
 
