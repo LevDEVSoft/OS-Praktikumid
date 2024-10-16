@@ -1,36 +1,36 @@
-## Praktikumi Aruanne - Windows 11 Turvalisus
+# Praktikumi Aruanne - Windows 11 Turvalisus
 Selles aruandes esitan ekraanipildid ja selgitused iga ülesande kohta vastavalt praktikumi nõuetele.
 
 Ülesanded
 
-# Ülesanne 4-1
+## Ülesanne 4-1
 Esimesel ekraanipildil olen esitanud pildi Windows 11 praktikumi virtuaalmasinast, kus on selgelt näha, et kõik Windowsi uuendused on paigaldatud. Pilt sisaldab virtuaalmasina nime (ülal vasakul) ja kuupäeva (all paremas nurgas), tõendades süsteemi ajakohasust.
 
-# Ülesanne 4-2
+## Ülesanne 4-2
 Teisel ekraanipildil olen esitanud viirusetõrje logi, kus on näha tuvastatud viiruse tüüp Virus:DOS/EICAR_Test_File. 
 
-# Ülesanne 4-3
+## Ülesanne 4-3
 Kolmandal ekraanipildil olen esitanud Windows 11 tulemüüri detailse seadistamise vaate, kus on näha parameeter "Failide ja printeri ühiskasutus (kaja taotlus – ICMPv4-sisse)" ning selle võrguühenduse Public profiili olek (Enabled: Yes või No). Olen esile tõstnud vastava rea ja parameetri väärtuse.
 
-# Ülesanne 4-4
+## Ülesanne 4-4
 Selles osas olen võrrelnud Administratori ja SYSTEMi privileege ning toonud välja ühe tegevuse, mille jaoks on vajalikud SYSTEMi õigused. Näiteks: SYSTEMi õigusi on vaja registri muutmiseks süsteemi tasandil, mida administraator ei saa teha.
 
-# Ülesanne 4-5
+## Ülesanne 4-5
 Viiendal ekraanipildil olen näidanud ühe töötaja kausta õigusi vastavalt ülesandes toodud nõuetele. Ainult üks tavakasutaja saab kausta sisu ja faile muuta, samas kui ülemus-kasutaja saab kausta sisu ainult lugeda ja täita. Lisaks ei pääse töötaja1 ligi töötaja2 failidele ja vastupidi.
 
-# Ülesanne 4-6
+## Ülesanne 4-6
 Selles osas olen lisanud soovituse, mida Microsoft soovitab Windowsi turvalisuse osas täiendavalt seadistada. Näiteks, Microsoft soovitab kontokaitse alamseadistuses aktiveerida Microsofti konto, et suurendada turvalisust ja kasutada täiendavaid eeliseid.
 
-# Ülesanne 4-7
+## Ülesanne 4-7
 Seitsmendal ekraanipildil olen näidanud, kuidas tava-kasutajale keelatakse näiteks Thonny-nimelise programmi paigaldamine kõigile kasutajatele, kuna tal puuduvad administraatori õigused.
 
-# Ülesanne 4-8
+## Ülesanne 4-8
 Kaheksandal ekraanipildil olen näidanud, kuidas tava-kasutajale kuvatakse autentimisnõue administraatori kontoga, kui ta proovib paigaldada Thonny-nimelist programmi.
 
-# Ülesanne 4-9
+## Ülesanne 4-9
 Üheksandal ekraanipildil olen esitanud Event Vieweri logikirje, kus on näha ebaõnnestunud sisselogimiskatse. Pildil on sündmuse Event ID, kasutajatunnus, millele sisse logida prooviti, arvuti nimi ja sündmuse toimumisaeg.
 
-# Ülesanne 4-10
+## Ülesanne 4-10
 Viimasel ekraanipildil olen näidanud, kuidas pärast DisplayLastLogonInfo registrivõtme väärtuse muutmist väärtusele 1, kuvatakse sisselogimisel teade viimase sisselogimise aja kohta.
 
 
