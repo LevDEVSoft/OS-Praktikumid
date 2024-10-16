@@ -23,7 +23,7 @@ Selles osas olen võrrelnud Administratori ja SYSTEMi privileege ning toonud vä
 Viiendal ekraanipildil olen näidanud ühe töötaja kausta õigusi vastavalt ülesandes toodud nõuetele. Ainult üks tavakasutaja saab kausta sisu ja faile muuta, samas kui ülemus-kasutaja saab kausta sisu ainult lugeda ja täita. Lisaks ei pääse töötaja1 ligi töötaja2 failidele ja vastupidi.
 
 ## Ülesanne 4-6
-Selles osas olen lisanud soovituse, mida Microsoft soovitab Windowsi turvalisuse osas täiendavalt seadistada. Näiteks, Microsoft soovitab kontokaitse alamseadistuses aktiveerida Microsofti konto, et suurendada turvalisust ja kasutada täiendavaid eeliseid.
+Selles osas olen lisanud soovituse, mida Microsoft soovitab Windowsi turvalisuse osas täiendavalt seadistada. Näiteks, **Microsoft soovitab kontokaitse alamseadistuses aktiveerida Microsofti konto, et suurendada turvalisust ja kasutada täiendavaid eeliseid.**
 
 ## Ülesanne 4-7
 Seitsmendal ekraanipildil olen näidanud, kuidas tava-kasutajale keelatakse näiteks Thonny-nimelise programmi paigaldamine kõigile kasutajatele, kuna tal puuduvad administraatori õigused.
@@ -61,4 +61,9 @@ Pilt 5. Kaitse ajalugu
 Pilt 6. Windows Defender firewall with advanced secutiry sätted 
 
 ![Screenshot 2024-10-15 232311](https://github.com/user-attachments/assets/b8fb0410-8620-4c66-a0f3-8ef57346f1cf)
+
+Pilt 7. Windows update 
+
 ![Screenshot 2024-10-16 185256](https://github.com/user-attachments/assets/e7d251fb-9ed7-419c-9c53-43569984f0b0)
+
+Pilt 8. DisplayLastLogonInfo 
