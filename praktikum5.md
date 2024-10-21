@@ -4,6 +4,7 @@
 5.1. Minimaalsed vajalikud õigused:
 
 a) Faili lugemiseks peab olema lugemisõigus.
+
 b) Faili kustutamiseks peab olema kirjutamis- ja kustutamisõigus.
 5.2. Käsk "chmod a=x" annab kõigile kasutajatele käivitusõiguse, kuid faili käivitamiseks on vaja nii lugemis- kui ka käivitusõigust. Seetõttu peaks faili käivitamiseks olema määratud vähemalt "chmod a=rx".
 
