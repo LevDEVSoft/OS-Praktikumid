@@ -39,7 +39,7 @@ Seejärel saab faili kustutada käsuga:
 sudo rm testfail-2
 
 
-
+5.8:
 #file: hinded.txt
 
 #owner: opetaja
