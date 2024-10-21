@@ -47,7 +47,7 @@ group::---
 other::---
 
 5.9:
-Ainult root või kasutaja, kes määras failile +i (immutable) parameetri, saab faili muuta või eemaldada. Et kustutada +i-parameetriga faili, tuleb esmalt eemaldada +i atribuut.
+Kui failile rakendada käsk "chattr +i", siis selle sisu muutmine ei ole võimalik. Ainult root või kasutaja, kes määras failile +i (immutable) parameetri, saab faili muuta või eemaldada. Et kustutada +i-parameetriga faili, tuleb esmalt eemaldada +i atribuut.
 
 
 ## screenshottid:
