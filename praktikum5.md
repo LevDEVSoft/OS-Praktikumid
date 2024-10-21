@@ -41,10 +41,15 @@ sudo rm testfail-2
 
 
 #file: hinded.txt
+
 #owner: opetaja
+
 #group: opetaja
+
 user::rw-
+
 group::---
+
 other::---
 
 
