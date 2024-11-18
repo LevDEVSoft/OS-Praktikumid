@@ -12,7 +12,7 @@
 | Milline on kõige rohkem virtuaalmälu (aadressiruumi, commit, Virtual Size) võttev protsess? | firefox.exe | Tegumihaldur -> Üksikasjad -> Mälu | | |
 | Kui palju füüsilisest mälust (Physical Memory) on vaba ja kui palju hõivatud? | 2,3GB kasutatud ja 2,5GB vaba | Tegumihaldur -> Jõudlus -> Mälu | | |
 | Kui palju on põhikettal (C:, /) vaba ruumi mahult (GB) ja protsentuaalselt? | 21,02GB 33% | Win + X -> Kettahaldus | | |
-| Milline on kõige suurem arvutis olev fail ja kõige rohkem andmemahtu hõivav kaust (arvesse võta ka alamkaustade mahtu, ja jätta juurkaust / või C: välja)? | Nextcloud-3.14.3-x64.msi / Lenght: 160935936 bites ja kaust Downloads | Powershell -> Get-ChildItem -Path . -Recurse | Where-Object { -not $_.PSIsContainer } | Sort-Object Length -Descending | Select-Object FullName, Length -First 1 | | |
+| Milline on kõige suurem arvutis olev fail ja kõige rohkem andmemahtu hõivav kaust (arvesse võta ka alamkaustade mahtu, ja jätta juurkaust / või C: välja)? | Nextcloud-3.14.3-x64.msi / Lenght: 160935936 bites ja kaust Downloads | Powershell -> Get-ChildItem -Path . -Recurse  Where-Object { -not $_.PSIsContainer }  Sort-Object Length -Descending  Select-Object FullName, Length -First 1  / Get-ChildItem -Path . -Directory -Recurse  ForEach-Object { $_  Add-Member -MemberType NoteProperty -Name Size -Value (Get-ChildItem -Path $_.FullName -Recurse  Where-Object { -not $_.PSIsContainer }  Measure-Object -Property Length -Sum).Sum; $_ } Sort-Object Size -Descending  Select-Object FullName, Size -First 1 | | |
 | Võrrelge terminali käskude: sha1sum /dev/zero | sha1sum /dev/zero ja sha1sum /dev/urandom | sha1sum /dev/urandom protsessori kasutust. | | | | |
 | | | | | |
 | | | | | |
